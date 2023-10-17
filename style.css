@@ -1,0 +1,263 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(#4b468a, #fdfd87, white);
+}
+img{
+    width: 60%;
+  
+    
+}
+a{
+    background-image: url("https://images.pexels.com/photos/3789871/pexels-photo-3789871.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    backface-visibility: visible;
+    color: rgb(255 255 255);
+    -webkit-text-stroke: 0.6px black;
+    display: block;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+f{
+    background-image: url("https://bintantravel.net/wp-content/uploads/2018/12/Wisata-Sejarah-Di-Jembatan-Barelang-Batam.jpg");
+    color: rgb(98 94 137);
+    text-shadow: 1px 1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px -1px 0 #fff,
+    0px 1px 0 #fff,
+    0px -1px 0 #fff,
+    -1px 0px 0 #fff,
+    1px 0px 0 #fff,
+    2px 2px 0 #fff,
+    -2px 2px 0 #fff,
+    2px -2px 0 #fff,
+    -2px -2px 0 #fff,
+    0px 2px 0 #fff,
+    0px -2px 0 #fff,
+    -2px 0px 0 #fff,
+    2px 0px 0 #fff,
+    1px 2px 0 #fff,
+    -1px 2px 0 #fff,
+    1px -2px 0 #fff,
+    -1px -2px 0 #fff,
+    2px 1px 0 #fff,
+    -2px 1px 0 #fff,
+    2px -1px 0 #fff,
+    -2px -1px 0 #fff;
+    display: block;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+b{
+    background-image : url("https://cdn0-production-images-kly.akamaized.net/fwP5OhfV0bEaUPt-Hclm7lXjHEM=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2822966/original/036555200_1559692087-mie_lendir_enjoybatam_dot_com.jpg");
+    color: rgb(98 94 137);
+    text-shadow: 1px 1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px -1px 0 #fff,
+    0px 1px 0 #fff,
+    0px -1px 0 #fff,
+    -1px 0px 0 #fff,
+    1px 0px 0 #fff,
+    2px 2px 0 #fff,
+    -2px 2px 0 #fff,
+    2px -2px 0 #fff,
+    -2px -2px 0 #fff,
+    0px 2px 0 #fff,
+    0px -2px 0 #fff,
+    -2px 0px 0 #fff,
+    2px 0px 0 #fff,
+    1px 2px 0 #fff,
+    -1px 2px 0 #fff,
+    1px -2px 0 #fff,
+    -1px -2px 0 #fff,
+    2px 1px 0 #fff,
+    -2px 1px 0 #fff,
+    2px -1px 0 #fff,
+    -2px -1px 0 #fff;
+    display: block;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+c{
+    background-image : url("https://i0.wp.com/gokepri.com/gokepri/uploads/2021/12/E5BD564C-E1B2-42DD-B4AD-AF565E322B6D-e1639186140142.jpeg?fit=640%2C480&ssl=1");
+    color: rgb(98 94 137);
+    text-shadow: 1px 1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px -1px 0 #fff,
+    0px 1px 0 #fff,
+    0px -1px 0 #fff,
+    -1px 0px 0 #fff,
+    1px 0px 0 #fff,
+    2px 2px 0 #fff,
+    -2px 2px 0 #fff,
+    2px -2px 0 #fff,
+    -2px -2px 0 #fff,
+    0px 2px 0 #fff,
+    0px -2px 0 #fff,
+    -2px 0px 0 #fff,
+    2px 0px 0 #fff,
+    1px 2px 0 #fff,
+    -1px 2px 0 #fff,
+    1px -2px 0 #fff,
+    -1px -2px 0 #fff,
+    2px 1px 0 #fff,
+    -2px 1px 0 #fff,
+    2px -1px 0 #fff,
+    -2px -1px 0 #fff;
+    display: block;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+d{
+    background-image : url("https://cdn-2.tstatic.net/tribunnews/foto/bank/images/pusat-oleh-oleh-lawa-keripik-lidi-nagoya-batam_20150619_103935.jpg");
+    color: rgb(98 94 137);
+    text-shadow: 1px 1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px -1px 0 #fff,
+    0px 1px 0 #fff,
+    0px -1px 0 #fff,
+    -1px 0px 0 #fff,
+    1px 0px 0 #fff,
+    2px 2px 0 #fff,
+    -2px 2px 0 #fff,
+    2px -2px 0 #fff,
+    -2px -2px 0 #fff,
+    0px 2px 0 #fff,
+    0px -2px 0 #fff,
+    -2px 0px 0 #fff,
+    2px 0px 0 #fff,
+    1px 2px 0 #fff,
+    -1px 2px 0 #fff,
+    1px -2px 0 #fff,
+    -1px -2px 0 #fff,
+    2px 1px 0 #fff,
+    -2px 1px 0 #fff,
+    2px -1px 0 #fff,
+    -2px -1px 0 #fff;
+    display: block;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+e{
+    background-image : url("https://lh3.googleusercontent.com/p/AF1QipNx_Mm5BEFaVvQNBXoiVKvoTIVK_NsAxwNqaxx7=w1080-h608-p-k-no-v0");
+    color: rgb(98 94 137);
+    text-shadow: 1px 1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px -1px 0 #fff,
+    0px 1px 0 #fff,
+    0px -1px 0 #fff,
+    -1px 0px 0 #fff,
+    1px 0px 0 #fff,
+    2px 2px 0 #fff,
+    -2px 2px 0 #fff,
+    2px -2px 0 #fff,
+    -2px -2px 0 #fff,
+    0px 2px 0 #fff,
+    0px -2px 0 #fff,
+    -2px 0px 0 #fff,
+    2px 0px 0 #fff,
+    1px 2px 0 #fff,
+    -1px 2px 0 #fff,
+    1px -2px 0 #fff,
+    -1px -2px 0 #fff,
+    2px 1px 0 #fff,
+    -2px 1px 0 #fff,
+    2px -1px 0 #fff,
+    -2px -1px 0 #fff;
+    display: block;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#header{
+    background-image: url("https://i2.wp.com/iteba.ac.id/wp-content/uploads/2019/07/732c175f-1ba8-4714-918c-3333b2c2039b.jpeg?w=780&ssl=1");
+    border-radius: 32px;
+    color:rgb(249, 245, 235);
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 900;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.judul{
+    text-align: center;
+    background: linear-gradient(#36344b,#565562);
+    color: rgb(255 255 255);
+    padding: 10px;
+    border-radius: 16px;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 20px;
+  
+}
+
+.back{
+    text-align: center;
+    background: #4d488a91;
+    width: 134px;
+    padding: 14px;
+    margin: px;
+    color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    font-weight: bold;
+    font-size: 17px;
+}
+z{
+    background: linear-gradient(#6c699f,#9996b9);
+    border-radius: 20px;
+    color: rgb(255 255 255);
+    display: block;
+    width: 5-webkit-fill-availablepx;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    margin: 20px;
+    font-size: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+y{
+    color:#ffffff;
+    text-align: center
+}
+
+bg{
+    background: linear-gradient(#46454e,#9e9cbf,#bdb7d5);
+    border-radius: 50px;
+    display: block;
+    padding: 10px;
+    display: block;
+    margin: 20px;
+    font-size: 20px;
+}
